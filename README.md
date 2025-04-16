@@ -41,3 +41,5 @@ String senha = "1234";
 ## 📚Aprendizados
 
 Esse projeto me ajudou a entender melhor como funciona a conexão entre um applicativo Java e o banco de dados relacional, além de reforçar minha lógica de programação com menus e operações CRUD.
+
+Exercício realizado por: [Rayca Thais Barbosa Nascimento](https://github.com/raycaThais) e [Bruno Ventura Gross](https://github.com/bvgross)
